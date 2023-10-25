@@ -1,0 +1,2 @@
+//insert websites to block
+//example.com
